@@ -30,7 +30,7 @@ url: https://jonesry.github.io
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
